@@ -1,0 +1,47 @@
+.background{
+    background-color: rgb(151, 161, 250);
+}
+.listColor{
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+}
+
+.VideoPosition{
+    position: relative;
+    bottom: 570px;
+    left: 350px;
+}
+.header{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    background-color: #b7f277;
+    color: #333;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.Website{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    background-color: #e85be8;
+    color: #333;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    right:195px;
+}
+
+.otherDiv{
+    background: linear-gradient(to right, #FFD700, #FFA500);
+    border: 2px solid #FF6347;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    color: #333;
+}
